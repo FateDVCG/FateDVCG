@@ -1,27 +1,131 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=590016&fontAlignY=40"/>
-<div align="center">
-  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="500" height="500">
-</div>
 
 <div align="center">
   <samp>
     <b>
       イエス・キリストは唯一の真の神である
       <br>
-      Yo, I'm Kevin, a Fullstack web developer based in the Philippines~
+      <p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=fatedvcg&label=Profile%20views&color=0e75b6&style=flat" alt="fatedvcg" /> 
+      </p>
       <br>
+      Yo, I'm Kevin, a Fullstack Web Developer based in the Philippines 🇵🇭
+      <br>
+    </b>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=590016&fontAlignY=40&section=footer">
+<div align="center">
+  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="800" height="600">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatedvcg&label=Profile%20views&color=0e75b6&style=flat" alt="fatedvcg" /> </p>
+<div align="center">
+  <b>What do I offer?</b>
+  <br>
+  Practical, scalable solutions to bring your vision or startup to life.
+  <br>
+  Interested?
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kevinjgodoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevinjgodoy/" height="30" width="40" /></a>
+<br>
+
+<details align="center">
+    <summary>
+      <samp>
+        <b>More about me 👀</b>
+      </samp>
+    </summary>
+    <br>
+
+# 👋 &nbsp; Who am I?
+
+<img height="250" width="350" alt="GIF" align="right" src="https://tenor.com/jzylErAtsEY.gif">
+
+I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement. I’m passionate about creating projects and products that are both **impactful and scalable**. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
+
+&nbsp;
+
+## 👀 &nbsp; Tools I use for building~
+
+<div align="center">
+
+<!-- Core Languages -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="50" height="50"/>
+
+<br><br>
+
+<!-- Frameworks -->
+
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>&nbsp;
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50"/>
+
+<br><br>
+
+<!-- Tools & Platforms -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>&nbsp;
+
+<br><br>
+
+<!-- Styling & Misc -->
+
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+
+</div>
+
+&nbsp;
+
+# 👀 &nbsp; Github Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="fatedvcg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fatedvcg"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatedvcg&show_icons=true&locale=en&layout=compact" alt="fatedvcg" /></p>
+<p>
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg"/>
+</p>
+
+&nbsp;
+
+# 🤝 &nbsp; Connect with me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinjgodoy/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kevingodoybiz@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/fatevcg" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+&nbsp;
+
+# &nbsp; Ready to make your dreams and vision a reality?
+
+<div align="center">
+  <img src="https://tenor.com/bYfne.gif" width="1000" height="600">
+</div>
+
+</details>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=590016&fontAlignY=40&section=footer">
