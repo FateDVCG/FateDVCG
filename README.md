@@ -90,6 +90,10 @@
 Liking what you see? Let's connect!
 
 <p align="center">
+  <a href="https://fatedev.vercel.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-590016?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kevinjgodoy/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
