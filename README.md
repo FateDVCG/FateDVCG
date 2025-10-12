@@ -15,11 +15,12 @@
 </div>
 
 <div align="center">
-  <b>What do I offer?</b>
+  <b>What do I offer?
   <br>
-  Practical, scalable solutions to bring your vision or startup to life.
+   Practical, scalable solutions to bring your vision or startup to life.
   <br>
-  Interested?
+   Interested?
+   </b>
 </div>
 
 <br>
@@ -50,7 +51,7 @@
 
 &nbsp;
 
-## 👀 &nbsp; Tools I use for building~
+# 👀 &nbsp; Tools I use for building~
 
 <div align="center">
 
@@ -74,10 +75,6 @@
 &nbsp;
 
 # 👀 &nbsp; Github Stats
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatedvcg&theme=dark" alt="fatedvcg"/>
-</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg" height="180"/>
