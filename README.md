@@ -36,10 +36,7 @@
 
 <img height="250" width="350" alt="GIF" align="right" src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/catto.gif">
 
-I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement.  
-I’m passionate about creating projects and products that are both **impactful and scalable**.  
-I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience.  
-I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
+I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement. I’m passionate about creating projects and products that are both **impactful and scalable**. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
 
 &nbsp;
 
@@ -54,8 +51,6 @@ I believe learning never stops and I’ll always be a student, eager to grow, ad
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="50" height="50"/>
 
-<br><br>
-
 <!-- Frameworks -->
 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>&nbsp;
@@ -63,15 +58,11 @@ I believe learning never stops and I’ll always be a student, eager to grow, ad
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>&nbsp;
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50"/>
 
-<br><br>
-
 <!-- Tools & Platforms -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>&nbsp;
-
-<br><br>
 
 <!-- Styling & Misc -->
 
@@ -85,33 +76,29 @@ I believe learning never stops and I’ll always be a student, eager to grow, ad
 
 # 👀 &nbsp; Github Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="fatedvcg" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fatedvcg"/>
-</p>
-
-<p>
-  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="fatedvcg" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fatedvcg" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg" height="200"/>
+</div>
 
 &nbsp;
 
 # 🤝 &nbsp; Connect with me!
 
+Liking what you see? Let's connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinjgodoy/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kevingodoybiz@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/fatevcg" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
