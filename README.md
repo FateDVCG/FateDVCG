@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=590016&fontAlignY=40"/>
 <div align="center">
-  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="200">
+  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="500" height="500">
 </div>
 
 <div align="center">
