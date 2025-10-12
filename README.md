@@ -5,17 +5,13 @@
     <b>
       イエス・キリストは唯一の真の神である
       <br>
-      <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=fatedvcg&label=Profile%20views&color=0e75b6&style=flat" alt="fatedvcg" /> 
-      </p>
-      <br>
       Yo, I'm Kevin, a Fullstack Web Developer based in the Philippines 🇵🇭
       <br>
     </b>
 </div>
 
 <div align="center">
-  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="800" height="600">
+  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/itachi%20GIF.gif" width="1000" height="600">
 </div>
 
 <div align="center">
@@ -40,7 +36,10 @@
 
 <img height="250" width="350" alt="GIF" align="right" src="https://tenor.com/jzylErAtsEY.gif">
 
-I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement. I’m passionate about creating projects and products that are both **impactful and scalable**. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
+I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement.  
+I’m passionate about creating projects and products that are both **impactful and scalable**.  
+I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience.  
+I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
 
 &nbsp;
 
