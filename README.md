@@ -34,9 +34,19 @@
 
 # 👋 &nbsp; Who am I?
 
-<img height="250" width="350" alt="GIF" align="right" src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/catto.gif">
-
-I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement. I’m passionate about creating projects and products that are both **impactful and scalable**. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I’ll always be a student, eager to grow, adapt, and evolve.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" valign="top">
+        <br><br>
+        I'm a <b>Bachelor of Information Technology</b> graduate with a constant drive for learning and improvement. I'm passionate about creating projects and products that are both <b>impactful and scalable</b>. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I'll always be a student, eager to grow, adapt, and evolve.
+      </td>
+      <td width="40%" valign="top">
+        <img height="250" width="350" alt="GIF" src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/catto.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
 &nbsp;
 
@@ -44,28 +54,17 @@ I'm a **Bachelor of Information Technology** graduate with a constant drive for 
 
 <div align="center">
 
-<!-- Core Languages -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="50" height="50"/>
-
-<!-- Frameworks -->
-
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>&nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50"/>
-
-<!-- Tools & Platforms -->
-
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>&nbsp;
-
-<!-- Styling & Misc -->
-
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS" width="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
@@ -77,9 +76,14 @@ I'm a **Bachelor of Information Technology** graduate with a constant drive for 
 # 👀 &nbsp; Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="fatedvcg" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fatedvcg&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fatedvcg" height="200"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatedvcg&theme=dark" alt="fatedvcg"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatedvcg&theme=dark" alt="fatedvcg" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatedvcg&theme=dark" alt="fatedvcg" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatedvcg&theme=dark" alt="fatedvcg" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatedvcg&theme=dark" alt="fatedvcg" height="180"/>
 </div>
 
 &nbsp;
