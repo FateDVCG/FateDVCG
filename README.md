@@ -34,7 +34,7 @@
 
 # 👋 &nbsp; Who am I?
 
-<img height="250" width="350" alt="GIF" align="right" src="https://tenor.com/jzylErAtsEY.gif">
+<img height="250" width="350" alt="GIF" align="right" src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/catto.gif">
 
 I'm a **Bachelor of Information Technology** graduate with a constant drive for learning and improvement.  
 I’m passionate about creating projects and products that are both **impactful and scalable**.  
@@ -120,7 +120,7 @@ I believe learning never stops and I’ll always be a student, eager to grow, ad
 # &nbsp; Ready to make your dreams and vision a reality?
 
 <div align="center">
-  <img src="https://tenor.com/bYfne.gif" width="1000" height="600">
+  <img src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/cyberpunk.gif" width="1000" height="600">
 </div>
 
 </details>
