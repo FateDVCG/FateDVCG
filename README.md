@@ -20,6 +20,10 @@
    Practical, scalable solutions to bring your vision or startup to life.
   <br>
    Interested?
+   <br><br>
+   <a href="https://fatedev.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/View_My_Portfolio-590016?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+   </a>
    </b>
 </div>
 
