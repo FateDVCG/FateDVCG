@@ -68,7 +68,7 @@
 | <samp>第三話</samp> | **[Salagubang Wars](https://fatedev.vercel.app/projects/salagubang-wars/)** | Filipino-folklore creature RPG on Roblox, built by an agent team I direct. |
 | <samp>第四話</samp> | **[Urie.ai](https://fatedev.vercel.app/projects/urie-ai/)** | Offline-first fitness app with an AI coach running on the phone. |
 | <samp>第五話</samp> | **[Elizabeth.ai](https://fatedev.vercel.app/projects/elizabeth-ai/)** | Multi-tenant SaaS for Messenger ordering. |
-| <samp>外伝</samp> | **[Bloopop](https://fatedev.vercel.app/projects/)** | Freelance backend lead: Postgres, Stripe, realtime. |
+| <samp>外伝</samp> | **[Bloopop](https://fatedev.vercel.app/projects/bloopop/)** | Freelance backend lead: Postgres, Stripe, realtime. |
 
 </div>
 
