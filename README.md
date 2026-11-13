@@ -44,13 +44,32 @@
     <tr>
       <td width="60%" valign="top">
         <br><br>
-        I'm a <b>Bachelor of Information Technology</b> graduate with a constant drive for learning and improvement. I'm passionate about creating projects and products that are both <b>impactful and scalable</b>. I embrace challenges as opportunities for growth and continuously seek to expand my skills through hands-on experience. I believe learning never stops and I'll always be a student, eager to grow, adapt, and evolve.
+        I'm a <b>Full Stack Engineer at <a href="https://plccode.ai">PLCcode.ai</a></b> (since March 2026) and a <b>BSIT graduate, Cum Laude</b>. I build AI products end to end, from the interface to the self-hosted infrastructure underneath. At work I built the AI chat that reads and edits ladder logic for controls engineers, worked on retrieval and the editor, and led the move onto self-hosted Kubernetes. On my own time I build AI agents, games and apps, and I still believe learning never stops.
       </td>
       <td width="40%" valign="top">
         <img height="250" width="350" alt="GIF" src="https://github.com/FateDVCG/FateDVCG/blob/main/assets/catto.gif">
       </td>
     </tr>
   </table>
+</div>
+
+&nbsp;
+
+# 📚 &nbsp; What I've been building
+
+Most of my work lives in private repos (company code and unreleased products), so the write-ups are on my site.
+
+<div align="center">
+
+| | Project | What it is |
+|---|---|---|
+| 第一話 | **[PLCcode.ai](https://fatedev.vercel.app/projects/plccode-ai/)** | My day job. AI tools for controls engineers: browser-based PLC programming, version control, and live equipment access. |
+| 第二話 | **[Diwa](https://fatedev.vercel.app/projects/diwa/)** | My self-hosted AI agent on a Proxmox mini PC. Billing, smart home and game ops behind a default-deny security broker. |
+| 第三話 | **[Salagubang Wars](https://fatedev.vercel.app/projects/salagubang-wars/)** | A Filipino-folklore creature RPG on Roblox, built by an agentic dev team I direct. In private playtest. |
+| 第四話 | **[Urie.ai](https://fatedev.vercel.app/projects/urie-ai/)** | An offline-first Android fitness app with an AI coach running on the phone. |
+| 第五話 | **[Elizabeth.ai](https://fatedev.vercel.app/projects/elizabeth-ai/)** | Multi-tenant SaaS that automates Messenger ordering for Filipino micro-businesses. |
+| 外伝 | **Bloopop** (Dalbit LLC) | Freelance backend lead for a creator-fan messaging platform: Postgres, Stripe, realtime, moderation. |
+
 </div>
 
 &nbsp;
@@ -66,12 +85,15 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>&nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>&nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
 
 </div>
